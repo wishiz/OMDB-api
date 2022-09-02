@@ -1,5 +1,5 @@
 {
-  "name": "my-app",
+  "name": "ombd-api",
   "homepage": "https://wishiz.github.io/OMDB-api",
   "version": "0.1.0",
   "private": true,
