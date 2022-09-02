@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/OMDB-api/static/js/main.832bc450.js",
+    "index.html": "/OMDB-api/index.html",
+    "main.832bc450.js.map": "/OMDB-api/static/js/main.832bc450.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.832bc450.js"
+  ]
+}
