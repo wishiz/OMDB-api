@@ -8,7 +8,7 @@ Runs the app in the development mode.\
 
 ## Other tools
 
-State is managed through useReducer hook + React context. Considering that we needed to keep info about few properties, local state seemed like a reasonable option.
+State is managed through useReducer hook + React context. Considering that we needed to keep info about few properties, this combination seemed like a reasonable option instead of a fully-fledges state management library.
 
 For coping with React keys I picked `nanoid` library - it's very lightweight (has no dependencies) and easily utilized.
 
